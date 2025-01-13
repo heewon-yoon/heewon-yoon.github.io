@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Heewon Yoon"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in Political Science at Columbia Univeristy"
+  bio              : "Ph.D. Candidate in Political Science"
   location         : "New York"
-  employer         :
+  employer         : "Columbia University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "hy2571@columbia.edu"
