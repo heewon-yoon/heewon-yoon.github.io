@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Comparative Politics"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+type: "Instructor: Benjamin McClelland"
+permalink: 
+venue: "Columbia Unviersity"
 date: 2014-01-01
-location: "City, Country"
+location: Spring 2024, Fall 2024"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<br/><img src='/images/cp_fall24.png'>
+<br/><img src='/images/cp_spring24.png'>
 
 Heading 1
 ======
