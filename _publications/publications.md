@@ -1,15 +1,20 @@
 ---
+layout: archive
 title: "Research"
+permalink: /publications/
+author_profile: true
 ---
 
-Paper 1
-======
-description
+**Title**
 
-Paper 2
-======
-description
+Description
 
-Paper 3
-======
-description
+
+**Title**
+
+Description
+
+
+**Title**
+
+Description
