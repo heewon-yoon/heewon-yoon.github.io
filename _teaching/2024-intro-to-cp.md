@@ -1,3 +1,9 @@
+---
+permalink: /
+title: "Teaching"
+author_profile: true
+---
+
 Empirical Methods in Political Science
 ======
 Instructor: Michael Miller
