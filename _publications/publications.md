@@ -5,16 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Title**
+**Intraparty Conflict and Primary Elections: Evidence from South Korea**
 
 Description
 
 
-**Title**
+**Interdistrict Donations and Candidate Selection in U.S. Primaries**
 
 Description
 
 
-**Title**
+**Anti-immigrant Sentiment and the Level of Automation**
 
 Description
