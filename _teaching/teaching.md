@@ -16,6 +16,7 @@ Fall 2020, Summer 2021
 
 
 **Research Design: Data Analysis**
+
 Instructor: Shigeo Hirano
 
 Fall 2021, Fall 2023
