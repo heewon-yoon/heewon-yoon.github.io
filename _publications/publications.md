@@ -13,13 +13,11 @@ Despite the benefit to party leaders from internally nominating candidates, many
 
 **Interdistrict Donations and Candidate Selection in U.S. Primaries**
 
-<br/><img src='/images/cont_pattern.pdf' width="600" height="400">
+<br/><img src='/images/cont_pattern.png' width="600" height="400">
 
 While votes are confined to districts, campaign contributions are not, which offers leeway for out-of-district donors to exert influence. Many candidates heavily rely on out-of-district campaign contributions in elections, but inter-district donations have received less scholarly attention. This paper explores how out-of-district donors affect candidate selection in primary elections. I use natural disasters as an exogenous shock that increases the share of out-of-district donations and examine how it affects candidate selection.
 
 **Gateways or Gatekeepers? Nomination Methods and the Representation of Underrepresented Politicians**
-
-
 
 This research examines how different nomination methods shape the representation of underrepresented candidates. While existing research highlights primaries as a more inclusive mechanism—-lowering entry barriers and enabling outsiders to run without party backing-—I show that these benefits are often overstated. In practice, primaries tend to favor well-funded incumbents and politically connected candidates, limiting opportunities for those with fewer resources. By contrast, direct nominations provide a more viable path for underrepresented candidates by shielding them from open competition with better-funded rivals.
 
