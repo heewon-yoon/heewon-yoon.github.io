@@ -13,7 +13,7 @@ Despite the benefit to party leaders from internally nominating candidates, many
 
 **Interdistrict Donations and Candidate Selection in U.S. Primaries**
 
-<br/><img src='/images/cont_pattern.png' width="600" height="400">
+<br/><img src='/images/cont_pattern.png' width="400" height="600">
 
 While votes are confined to districts, campaign contributions are not, which offers leeway for out-of-district donors to exert influence. Many candidates heavily rely on out-of-district campaign contributions in elections, but inter-district donations have received less scholarly attention. This paper explores how out-of-district donors affect candidate selection in primary elections. I use natural disasters as an exogenous shock that increases the share of out-of-district donations and examine how it affects candidate selection.
 
